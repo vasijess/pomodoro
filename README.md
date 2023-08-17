@@ -48,6 +48,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-[🔗 Clique aqui para acessar](vasijess.github.io/pomodoro/) 
+[🔗 Clique aqui para acessar](https://vasijess.github.io/pomodoro/) 
 
 Feito com ❤️ por @vasijess 
